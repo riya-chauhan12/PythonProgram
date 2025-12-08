@@ -1,2 +1,3 @@
 this is my file 2 for learning about git
 working with commit
+add the new features
