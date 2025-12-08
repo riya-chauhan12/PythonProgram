@@ -1,1 +1,3 @@
 to fix new bug
+adding new bug fix
+this is new method
