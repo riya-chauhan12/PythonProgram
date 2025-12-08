@@ -2,10 +2,6 @@ to fix new bug
 adding new bug fix
 this is new method
 one more bug detected
-<<<<<<< HEAD
-new detected 4
 add footer nofe
-new detected
- add new footer
  2026 comming
 

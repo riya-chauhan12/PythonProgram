@@ -1,2 +1,3 @@
 this my file one for git course
 add content to file 1
+checking new commands
