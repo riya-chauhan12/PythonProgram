@@ -1,5 +1,0 @@
-this is my file 2 for learning about git
-working with commit
-add the new features
-something to fix and add
-doing something new
